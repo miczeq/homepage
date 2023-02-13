@@ -1,6 +1,6 @@
 # Marcin Mika - moja strona
 
-![Marcin](images/foto.jpg)
+![Zrzut ekranu](Animation.gif)
 
 ## Demo
 
