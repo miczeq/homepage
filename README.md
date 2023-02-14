@@ -1,11 +1,20 @@
-# Marcin Mika - moja strona
+# Marcin Mika - My first webstie
 
-![Zrzut ekranu](Animation.gif)
+![Zrzut ekranu](images/foto.jpg)
 
 ## Demo
 
 https://miczeq.github.io/homepage/
 
-### Opis
+### Website about me:
 
-Informacje na temat mojego wykształcenia, doświadczenia zawodowego oraz hobby w postaci odbytych podróży zagranicznych. Strona utworzona przy użyciu html, css, oraz javascript.
+- Education
+- Experience
+- Foreign travel
+
+#### Technologies
+
+- HTML
+- CSS
+- JavaScript
+- BEM
