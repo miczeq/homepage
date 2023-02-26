@@ -1,4 +1,6 @@
+function welcome() {
 console.log("Witam wszystkich developerów !! ");
+}
 
 let button = document.querySelector(".button");
 let body = document.querySelector(".body");
