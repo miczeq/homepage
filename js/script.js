@@ -5,15 +5,15 @@
 
   const toggleBackground = () => {
     const body = document.querySelector(".body");
-    const themeName = document.querySelector(".themeName");
+    const nextColorName = document.querySelector(".js-nextColorName");
 
-    body.classList.toggle("dark");
-    themeName.innerText = body.classList.contains("dark") ? "jasny" : "ciemny";
+    body.classList.toggle("body--blue");
+    nextColorName.innerText = body.classList.contains("body--blue") ? "jasny" : "ciemny";
   };
 
   const init = () => {
-    const button = document.querySelector(".button");
-    button.addEventListener("click", toggleBackground);
+    const changeBackgroundButton = document.querySelector(".js-changeBackgroundButton");
+    changeBackgroundButton.addEventListener("click", toggleBackground);
 
     welcome();
   };
